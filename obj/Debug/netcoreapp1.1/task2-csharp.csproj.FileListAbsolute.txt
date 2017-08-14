@@ -1,0 +1,8 @@
+C:\Users\Owner\desktop\task2-csharp\bin\Debug\netcoreapp1.1\task2-csharp.deps.json
+C:\Users\Owner\desktop\task2-csharp\bin\Debug\netcoreapp1.1\task2-csharp.runtimeconfig.json
+C:\Users\Owner\desktop\task2-csharp\bin\Debug\netcoreapp1.1\task2-csharp.runtimeconfig.dev.json
+C:\Users\Owner\desktop\task2-csharp\bin\Debug\netcoreapp1.1\task2-csharp.dll
+C:\Users\Owner\desktop\task2-csharp\bin\Debug\netcoreapp1.1\task2-csharp.pdb
+C:\Users\Owner\desktop\task2-csharp\obj\Debug\netcoreapp1.1\task2-csharp.AssemblyInfo.cs
+C:\Users\Owner\desktop\task2-csharp\obj\Debug\netcoreapp1.1\task2-csharp.dll
+C:\Users\Owner\desktop\task2-csharp\obj\Debug\netcoreapp1.1\task2-csharp.pdb
